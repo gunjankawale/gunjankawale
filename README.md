@@ -68,7 +68,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: **gunjanworkspace@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 💼 LinkedIn: *www.linkedin.com/in/gunjan-kawale*
 
 ---
 
