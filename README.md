@@ -1,6 +1,9 @@
 ![logo](https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Hi%20👋,%20I'm%20Gunjan%20Kawale&fontSize=35&fontColor=ffffff)
 
 <h1 align="center">Welcome to my Profile</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gunjankawale&label=Profile%20Views&color=blue&style=flat" />
+</p>
 <h3 align="left">Data Engineer</h3>
 
 <img align="right" alt="female coding" width="360" 
